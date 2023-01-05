@@ -13,4 +13,4 @@ stats](https://github-readme-stats.vercel.app/api?username=DEV-VictorReis&show_i
 
 <div></br>
 
-Iniciando na área da programação, a princípio com foco em FrontEnd.
+Iniciando na área da programação, a princípio com foco em FrontEnd
